@@ -1,182 +1,304 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/xiaoka0xiaoy/xiaoka0xiaoy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-第二章:魔法之力
-
-
-从诞生起，人类就开始迅速繁衍，征服自己所看到的每一片土地。他们对知识和科技有着天生的渴望，此外还有难以遏制的野心。人类将世界视为囊中之物，他们不断改变着这个世界以适应自己的欲望。很快，人类的城市开始君临大地。通过这些权力中枢，他们要将世界驯服于自己的欲望之下。城市是聚集知识和文化的堡垒，其中耸立着图书馆、学校和贸易市场，然而也驻扎着武装部队。人类并不满足于征服自己的土地，他们开始向外扩展，进入其他种族的领土。他们滥砍滥伐，猎捕野兽，入侵异族的国土。就是在此时，人类将夏尔从他们的故乡，也就是阿斯卡隆地区，赶了出去。
-这场战争中，肩负着维护泰瑞亚平衡使命的被遗忘者被彻底驱逐了。在被迫同人类血战一场后，被遗忘者认识到往日单纯的和平已经一去不复返了。于是他们撤回到遥远的水晶沙漠中。时移世易，这个古老种族的知识遭人遗忘，他们成了历史的一部分，成了只有少数人才记得的传说。
-即便仆从们消失了，众神依然维护着这个世界。他们缔造了一份神奇的礼物，由阿伯顿公平地赐予这世界上所有的种族：其名为“魔法”。魔法的本意是要在生存斗争中帮助众生，为需要的人提供庇护，治愈这个艰苦的世界，同时也让世界变得更稳固。
-
-然而，魔法立刻被众生当成了武器。
-
-泰瑞亚遭到战争和毁灭的摧残。通晓了魔法的智慧种族彼此争斗不休。军阀纷纷崛起，征伐众多领土，少有人能幸免于战祸，不少国家都开始争夺霸权。对某些种族来说，这可正是一个报仇雪恨的好机会，而人类则认为自己远远胜过自己的敌人。魔法这股全新的力量导致了极为惨烈的浩劫，某些种族甚至就此灭绝。
-最后，残存的人类城市在多里克国王的努力下联合起来。万般绝望中，多里克前往位于欧尔半岛的圣城亚拉，此处乃是众神的居所。在亚拉，多里克祈求觐见诸神，并恳请他们收回魔法这份礼物，让它重新成为神灵独有的特权。若没有这一壮举，泰瑞亚将永无和平与安宁之日。
-六真神同意了国王的请求。他们从各个种族中收回了魔法，并将其炼成一块灵石。这块灵石之后被一分为五。其中四块代表着魔法的四种派系保护、毁灭、伤害、否拒，而最后那一块则是基石。若是少了这块基石，其余四块魔法石将永远不能重合为一体。魔法依然存留于世间，但谁也不能独自一人完全掌控它了。
-由于多里克国王提出了这一请求，他与他的子孙后代将承担起世代保护这些魔法石的使命。多里克用一滴血液封印了这五大灵石，因此，它们也以“血石”之名为人所知。多里克将血石沉入科瑞塔王国海岸附近的某座火山深处。
-这一系列举动影响深远，水灵与智慧之神阿伯顿也因此与其他众神决裂。他一力促成众神送出魔法这份礼物，阿伯顿坚信所有人都能用到它。这一理念上的分歧，以及众神将魔法从各大种族中收回一事，让阿伯顿与其他神灵之间发生了争执。这次争辩最终演变成了威胁，进而开启了战端。阿伯顿攻击了其他五位神灵，而之后在阿伯顿、他的信徒和其他五真神之间发生的战争彻底改变了这个世界。最终，阿伯顿被击败，他所坠落的地方变得枯萎而扭曲，形成了荒芜之地。之后五真神将阿伯顿封印起来，并将他禁锢在磨难之地。
-正是因为这场战争，众神离开了泰瑞亚。这一事件被称为“众神的离去”，它标志着泰瑞亚的历史进入了新的阶段。现在，众生必须独力面对未来的一切了。
-
-第三章：人类的历史
-
-在众神离去后的一百年里，是一个繁荣而和平的时代，尤其是对众多不同的人类王国而言更是如此。三个强大的国家：科瑞塔、阿斯卡隆和欧尔崛起了。这三大国度成了各个王朝、政治和文化的发源地，但其中没有哪个能占据优势地位。
-与过去不同，这是一个充满发明和贸易的时代。交流和机遇促成了公会的诞生。最初，公会只是经济组织，是商人聚会、运输货物以及商定价格的团体。但是 随着发展，公会不再是纯粹的贸易团体了。不久之后，有的公会开始涉及战争、宗教、魔法技艺甚至社会热点等领域——总而言之呢，任何目标都能汇聚起一群志同道合的人。
-由于公会促成了交流和经济繁荣，他们逐渐开始跨越国界扩张了。比如，某个在科瑞塔占据支配地位的公会，也会在欧尔和阿斯卡隆设立分部。同时，公会也开始染指政治舞台。国王和公会都有权制定法律，不过只有军事公会负责推行这些律令。从本质上来讲，公会开始掌控人类社会的真正权力了。
-
-
-公会激战
-
-
-一场惊天的自然灾难引发了巨变。科瑞塔海岸的火山曾被用于封印“血石”，然而现在它却喷发了。血石分崩离析，被抛射到大陆上，而其中蕴含的魔法力量开始迅速渗透它所接触到的一切事物。
-
-人类率先意识到发生了什么，他们明白血石中蕴含着潜力魔法，于是开始想要占有这些至宝。由于公会拥有巨大的权力，因此他们开始利用自己横跨人类王国的影响力，争夺血石。这是一场权力、威望和诡计之间的大战，数不清的公会卷入其中，为夺得血石而战。
-
-这场战争被称为“公会激战”。
-
-
-公会激战持续了数十年之久，它并不是由若干场战役组成，而是许多不同的派系团体之间长期混战。然而随着时间推移，并没有真正的胜利者出现。这场对于血石支配权的争夺，将所有人类国家都卷了进来。阿斯卡隆、欧尔和科瑞塔彼此开战，随之而来的是旷日持久的战争、合纵连横，以及生灵涂炭。
-
-
-一场更大的威胁降临，打断了公会之间的战争，为它画上了一个残忍的句号。夏尔开始入侵人类王国，他们的残忍与野蛮让人类间的冲突显得黯然失色。人类诸国对夏尔大军的入侵毫无准备，他们还在以人类的战术和情感看待夏尔。然而，夏尔是彻头彻尾的异族。他们虎视眈眈地盯着人类诸国，等待他们被战争与内讧所削弱，等待征服这片土地的时机日渐成熟。
-
-第四章：逐火预言
-
-
-阿斯卡隆的殒落
-
-阿斯卡隆是夏尔的故土，也是夏尔大军志在必夺的领土。长久以来，人类只能躲入北方长城之后，以此为屏障抗拒外敌。然而来自“烈焰军团”的夏尔萨满掌握了强大的魔法。凭借“浩劫之釜”以及众泰坦(夏尔人当作众神崇拜的强大灵体)的力量，夏尔萨满乔•烟肤释放了后世称为“灼火之劫”的法术，滚滚火焰从天而降，焚烧周围的一切。这道法术的力量堪比自然灾害，甚至改变了这片土地本身，在地表形成了许多陨石坑，以及裂纹。河道中流淌的不是水，而是焦油和熔岩，不计其数的人在这场灾难中丧生。
-在阿斯卡隆的首都凛城，皇室成员试图为人民灌输勇气和决心。然而对于战争的去向，人们的看法却大为不同。国王埃德伯恩认为，人们应该集中精力重建城市；而他的儿子，卢瑞克王子却激烈反对，他坚持人类应当反击夏尔，并采取主动攻势。
-不顾父亲的意愿，卢瑞克率领一支小分队前往北方长城的废墟。在那里，他们目睹了数不胜数的夏尔，占据着人类的领土。卢瑞克明白，这座城墙很快就会陷落；于是下令军队后撤。然而在撤军之前，卢瑞克在一场营救行动中意外获得了一件神器：传奇号角“风暴召唤者”的哨嘴部分。于是他打算将风暴召唤者恢复原状，卢瑞克确信，这件神器是拯救子民的唯一关键。而他的任务最终也成功了。
-随着“风暴召唤者”组装完整，卢瑞克返回都城，但当他抵达时，迎面而来的却是一座烈火焚烧的城池。夏尔军团获胜了；他们正在纵火摧毁凛城。于是卢瑞克王子释放了风暴召唤者的魔法。伴随着号角长啸，苍穹中阴云密布。很快，一场温柔的雨从天而降。满城的火焰被迅速扑灭，幸存的市民们也逃出了夏尔的魔爪。
-凛城城破，阿斯卡隆人面临着艰难的抉择。邻国科瑞塔愿意伸出援手：他们同意让阿斯卡隆难民进入国境，并提供军事援助。卢瑞克王子对这一提议很满意， 他深知夏尔的实力，以及在没有援军的情况下与夏尔军队作战是多么的绝望。可惜的是，公会激战摧毁了人类王国之间最基本的信任，埃德伯恩国王拒绝接受援助。他全面禁止阿斯卡隆人离开国境。最终，当卢瑞克王子强烈反对这一命令时，国王下令流放了他，以及他的支持者们。
-现在，没有什么再能阻挡夏尔进军的道路了，夏尔诸军团开始向欧尔和科瑞塔进发。
-
-
-欧尔沉没
-
-
-欧尔人的军队在公会激战时期已经饱受考验，城邦的居民们一致认为自己能抵御住夏尔的侵略。
-
-对于未来等候着他们的命运，这些人还一无所知呢。
-夏尔大军击败了防御者，并且向圣城亚拉进军，诸神曾在此行走于泰瑞亚。在夏尔诸军团面前，欧尔人的军队分崩离析，死伤惨重。然而，欧尔是一个历史悠久，力量强盛的国度——也是一处充满了秘密的国度。国王的私人顾问，一个精通魔法技艺的法师，潜入了圣城亚拉地下陵寝中某处守卫森严的密室里。在那里，他展开“失落卷轴”并颂出一道法术，为欧尔带来了末日。
-巨大的爆炸撼动了整片大陆，欧尔的国土颤抖着崩塌了。而亚拉，以及环绕着它的整个国家，开始下沉。那些被敌人入侵的边境，四散分布的村庄，物产富饶的林地，如今都只剩下浩瀚无边的海洋了。
-无论人类还是夏尔，在这场浩劫中都绝无幸免。这一历史事件被称为“浩劫巨变”。
-
-第五章：流亡之路
-
-
-既然不能指望从欧尔得到援助，卢瑞克王子转而想到了科瑞塔。但是，从阿斯卡隆到科瑞塔的道路漫长又危险，而充满了不祥气氛的席瓦山脉横贯于路途中。卢瑞克如今虽然只是流放之身，但身后却有为数众多的追随者。他决定带领这群人翻越这座山脉，寻找新的避难所。
-在这群流亡者横穿山脉的旅途中，他们发现自己陷入了另一场纷争。席瓦山脉是矮人的领土，而矮人们正处于内战中。德里莫矮人对难民们颇为友好，但对立派系石峰会则认为矮人天生就比其他种族优越，决定在阿斯卡隆人穿过严酷的席瓦山脉时将他们一网打尽。现在只有卢瑞克王子和他最信任的下属们才能拯救这群难民。但这一切都需要付出代价：卢瑞克在冰霜之门下牺牲了自己，阿斯卡隆人失去了勇敢的王子，只能独自面对未来的一切。
-
-
-抵达科瑞塔：危险的归乡之路
-
-
-科瑞塔给了阿斯卡隆人一个机会，让他们建立新的家园和生活，但却没有难民们渴望已久的安全城堡。科瑞塔自己也面临着麻烦：被称为巫妖领主的恐怖人物操纵着不死生物围困了这个国家。
-阿斯卡隆的幸存者们坚定而强韧，自从穿过席瓦山脉，他们早已习惯了艰难的局面。阿斯卡隆人击退了不死生物的攻击，摧毁了这些污秽的生物。有鉴于他们的勇气，科瑞塔的执政团体白斗篷授予他们在王都狮子拱门北方定居的权利。
-对许多难民来说，这是故事的结局，他们又有机会重新开展淳朴的生活了，但卢瑞克王子的忠诚追随者们却没有满足。当白斗篷邀请他们携手合作时，这群人欣然接受了。在一次执行任务时，这群追随者救了白斗篷的领袖——忏悔者多里安一命。同时，他们帮助这位领袖获得了一件强力神器——“欧尔节杖”，阻止了不死生物想要夺走这件宝物的阴谋。
-为了奖赏这群忠诚之士的功劳，白斗篷给予这群阿斯卡隆人加入组织的荣耀。这群忠诚者也被授予一项重任：负责管理“天选试练“，从神圣海岸的人民中招募成员。天选试练，是每年夏至时，白斗篷通过一件魔法奇物“珍瑟之眼”在各个村庄里组织的选拔仪式，珍瑟之眼具有从普通民众里选拔白袍成员的能力。在仪式结束后，获选者会被护送到白斗篷的要塞——无形圣殿里，之后这些成员会在数位大师手下学习。
-
-然而，在履行责任的过程中，阿斯卡隆人发现他们的获选者被人绑架了。绑架犯来自于某个叛乱团体：光刃会。于是阿斯卡隆人接到命令，找出获选者被掳往什么地方，前去营救他们，并干掉光刃会的绑架犯。
-
-
-白斗篷对光刃
-
-
-阿斯卡隆人一路追踪获选者，终于来到了光刃会的面前，然而此时发生了一件怪事：光刃会正试图从白斗篷手中挽救这位获选者，光刃会发现了确凿的证据 ——白斗篷杀死获选者，作为祭品奉献给他们的主人(也就是“无形者”们)，因此他们才被白斗篷打成叛徒，不遗余力地污蔑和消灭他们。白斗篷曾派遣一名间谍 进入光刃会内部，并利用这个线人提供的信息，在争斗中占据了上风。
-光刃会的领袖，伊凡妮雅深知在形势恶化前，事情已经到了重要关头。她四处寻找防御稳固的据点，以对抗白斗篷。思考再三，这位女士决定求助于阿斯卡隆人，帮她拿下名为“德拉维石阵”的据点。在这个基地里，光刃会联络新的盟友，其中最重要的是一位是维齐齐伯恩。然而，维齐齐伯恩只肯在得到一件强大的法器之后才愿合作，这件神器就是阿斯卡隆人曾见过的“欧尔节杖”。
-光刃会最终成功得到了欧尔节杖，在这一过程中，他们还揭露了白斗篷的间谍。光刃会决定将这件神器交给维齐齐伯恩，可此事却被白斗篷所得知。在这次会 面中，伊凡妮雅被俘虏，光刃会四分五裂，而阿斯卡隆人则离开寻找新的行动机会。在维齐齐伯恩的忠告下，这群人前往那片荒土之地——水晶沙漠。维齐齐伯恩希望这支队伍能通过“入圣秘仪”，这一仪式能得到众神的垂怜与祝福。根据维齐齐伯恩的说法，唯有取得这股力量，阿斯卡隆人才能彻底击败无形者们。
-
-第六章：追寻升华
-
-
-在水晶沙漠中，阿斯卡隆人完成了许多伟大的壮举。他们找到了幻象水晶，一件能吸引众神注意的神器。这些阿斯卡隆人帮助他们的向导，一个名为图莱•奥萨的幽魂，继承了派伦提亚的王位，这使他们有资格踏进入圣神庙。而在干渴之河，他们击败了许多被遗忘者，这证明他们完全有资格超凡入圣。最后他们接受了试练，对战自己的幻影。而在通过试练后，阿斯卡隆人踏入了巨龙巢穴，离自己的目标只有一步之遥了。
-毫无意外，龙穴是巨龙“格林特”的盘踞之处。她不仅是强大的魔法生物，还是一位预言者。在《逐火预言》中曾记录过她所看见的幻象，而格林特也很乐意向众人分享自己的知识。透过巨龙，这群人知道了那个告密者的身份(此人名叫玛济斯)，以及无形者的真面目。很久很久以前，远在人类出现之前，存在一个精于魔法技艺的种族，它们名为末世魔。而无形者，就是末世魔族的余孽。
-格林特建议这支团队前往南方的席瓦山脉，在那里他们可以救出被俘虏的光刃成员，并且揭露更多的信息。
-
-
-重返席瓦山脉
-
-
-幸运的是，阿斯卡隆人在席瓦山脉还有些盟友。在国王加里斯•铁锤的带领下，德里莫矮人向这支队伍伸出援手。阿斯卡隆人的第一个目标是救出光刃会的首领，伊凡妮雅，这一任务完成得非常迅速。但在此过程中，他们见识到了末世魔人拥有的恐怖能力——幽魂苦痛。这道法术能杀死一切挡道的生物，而阿斯卡隆人正无助地面对这股力量。
-为了击败末世魔，矮人建议阿斯卡隆人找到某个名为“先知”的生物。这位神秘的先知生活在山脉深处，据说他是这个古代民族血脉的最后传人。在见到先知后，阿斯卡隆人了解到先知一族曾和末世魔之间发生过大战。他们掌握了一种方法，能对付末世魔幽魂苦痛的力量，这种方法名为“灌注”。尽管如此，先知依然输给了末世魔。他们的人数日渐稀少，只留下荒芜的废墟。最后，先知教会这些探索者们如何为自己的盔甲“灌注”，最后告知他们摧毁末世魔的方法。
-拥有“灌注”的保护，阿斯卡隆人向末世魔的要塞——莫拉登矿坑发起了进攻。在矿洞中，他们击杀了玛济斯，为遭到他背叛而死去的战友们报仇雪恨了。而 当这支队伍凯旋归来时，他们得到了一个可怕的消息：德里莫矮人的首都“雷云要塞”沦陷在石峰会的手中。更糟糕的是，白袍同盟的军队和末世魔正聚集起来攻击这座都城。阿斯卡隆人与德里莫矮人齐心协力，成功赶走了入侵的矮人，同时在突袭中，他们杀死了白斗篷的首领——忏悔者多里安。
-如今雷云要塞得到平定，阿斯卡隆人暂时得到了喘息和恢复的时机。但不幸的是，事情并没结束。维齐齐伯恩的到来打破了平静，他为阿斯卡隆人带来一个反击末世魔的机会：在晦暗海岸，名为火焰之环的群岛，隐藏着其中的关键。
-
-秘密揭露，背叛昭然
-
-火焰之环群岛曾是五大血石其中一块的沉眠之处。在群岛的中央耸立着一座名为“遗弃之阶”的巍峨火山。这座火山乃是通往克玛里耶之门的入口。在那里，人们将能找到一件对抗末世魔的武器。
-
-
-在和末世魔一番激战后，阿斯卡隆人最终开启了克玛里耶之门。就在此刻，他们发现了一个可怕的事实：有人背叛了他们。维齐齐伯恩可不是什么乐善好施的恩人，他曾在历史上犯下过许多恐怖的恶行。在他早年的生涯中，维齐齐伯恩曾是欧尔之王雷萨的顾问。然而，随着夏尔的入侵，在堕落之神阿伯顿派出的魔鬼的蛊惑之下，他释放出了那道让整个欧尔沉没的黑暗法术。随之而来的“浩劫巨变”杀死了成千上万的人民，包括维齐齐伯恩本人，却没有彻底毁灭他。取而代之的是，他被转化成了不死的巫妖，而其邪恶依旧深入骨髓。身为巫妖领主，维齐齐伯恩率领不死大军进攻科瑞塔，而其计划远远不止这些。
-在克玛里耶之门的背后，是对众生万物的威胁：泰坦。凭借欧尔节杖，维齐齐伯恩能号令泰坦们，率领他们征服泰瑞亚。
-
-第七章：泰坦之灾的终结
-
-
-巫妖领主维齐齐伯恩的阴谋最终在地狱悬崖上被阻止，经过一场高潮迭起的战斗，这支冒险队伍最终击杀了维齐齐伯恩。但是，失去了他的命令，众泰坦终于可以随心所欲了，而他们心中所欲，就是摧毁世上一切文明。
-
-
-泰坦们的意图解释了在此之前所发生过的那些事件。看起来，夏尔曾接触过泰坦。一直以来夏尔的萨满们将泰坦们当作神灵来崇拜，而在泰坦的鼓舞之下，夏尔才进攻了阿斯卡隆的人类王国。
-在巨龙格林特的帮助下，这支冒险团队动员并防御了许多要地：卓克纳熔炉的矮人城镇、他们的故乡阿斯卡隆城、德拉维石阵的光刃要塞，最后还有科瑞塔的首都，狮子拱门。
-通过和泰坦的遭遇战中获得的情报，外加格林特的忠告，冒险团队确定了泰坦指挥中枢的位置所在。在阿斯卡隆，被夏尔占据的领土深处，有一处名为“泰坦之源”的地方。三位强大的泰坦之王，以及夏尔军团的代表们在此处发号施令。挽救泰瑞亚的唯一机会，就是派出一支小队前往那里，摧毁泰坦之王。
-这场决定性的战役最终达到了预期的效果。众人合力击败了泰坦之王。夏尔大军则陷入了混乱。泰瑞亚的文明得到了挽救，人们也再度回到了和平的生活中。
-
-
-泰瑞亚的年轻英雄们
-
-历史是源源不绝的湍流，泰瑞亚上发生的故事绝不会就此终结，因为在凯珊和伊伦娜有些重大事件正在发生。没过多久，克米尔女神的信仰散布到了泰瑞亚大陆的人类领土上。而人类在重建对众神的信仰后，也急需得到这份信仰所带来的慰藉。
-
-地底的复苏
-
-一连串地震预示着全新的威胁即将到来。在地下隧道中，阿苏拉一族最先注意到了这股异动。他们的探索者认定有些事情出了大问题。然而当他们派人去进一步探索时，阿苏拉政府决定采用更安全、保守的策略。阿苏拉政府将人民疏散到地表的新城市——拉塔索姆。同时，他们带来了泰瑞亚前所未见的科技：迅速移动到遥远地区的技术。这就是著名的“阿苏拉星门”，而他们也在数百年之间不断进行着革新运动。
-在矮人王国，德里莫矮人也感受到了地震。有人认为，地底的活动正是某些古老预言即将成真的征兆。矮人有不少关于保护神——“崇高矮人”的故事。 在上古时代，崇高矮人以自己的力量创造了其他矮人，他也为矮人们铸造了盔甲和武器。凭着这些军备，崇高矮人和“灭世者”之间展开一场大战。在击败敌人之后，崇高矮人将其封印在《远古界限圣典》之中。随后崇高矮人离开了泰瑞亚，前往“裂隙”，在那里他至今仍居住在大熔炉中。活着的矮人中没人见过崇高矮人本尊，但他们依旧坚信他的存在，有的矮人相信灭世者也依然活着。
-
-
-科瑞塔内战，与萨尔玛女王的统治
-
-
-科瑞塔王国的首都，狮子拱门依旧掌握在白斗篷的余孽手中。当夏尔入侵时，科瑞塔的掌权家族在国王贾顿的率领下弃城而逃，于是白斗篷接管了首都。国王 曾留下了一个私生女，这个女孩由一位远古神殿的女祭司陪伴照顾。女孩名叫萨尔玛，她有权继承科瑞塔的王位。萨尔玛曾和阿斯卡隆的卢瑞克王子订婚，然而王子却勇敢地为人民而死。
-
-
-光刃会发现了萨尔玛公主，于是团结起来，为她的前途而战。通过一番努力，萨尔玛、伊凡妮雅和光刃军队攻下了狮子拱门，推翻了白斗篷。于是，在科瑞塔人民的欢呼和宽慰声中，萨尔玛女王加冕登基了。
-
-第八章：最后一战
-
-
-在阿斯卡隆，国王埃德伯恩依旧统治着残余的人类国度。他向阿斯卡隆最后一座未被占领的城市：黑檀鹰堡下达诏令，要求他们前来勤王。作为回应，黑檀鹰堡派出一支军队前去协助国王。这支军队更名为阿斯卡隆先锋，被指派前往席瓦山脉。他们要翻过山脉，前去夏尔的故乡作战。
-
-
-同盟云集
-
-
-在席瓦山脉，矮人石欧格登，以及阿苏拉人维克穿过地底深处，建造了一座阿苏拉星门。然而在毁灭者的攻击下，他们被迫出逃(毁灭者是只有在传说中被提及的生物，它们是灭世者的使者与仆从)。这两位英雄抵达了席瓦山脉的北境边塞，在那里他们遇见了诺恩人卓拉，随后又结识了黑檀先锋——格温，格温驻扎在极地之眼，一座俯瞰众多积雪山峰的防御塔。若这支队伍能学会携手合作，他们将深深影响这个世界。
-这支队伍的成员却都关心着他们自己的困难。阿苏拉最容易帮助，他们只想维持自己新领土的安全。一旦这点得到了保障，他们也转而开始帮助这支冒险团队。
-卓拉正在进行一场重要的狩猎。她失去了身为战士的荣誉，也不再能成为“熊灵”。卓拉和她的兄弟，斯瓦尼尔，正沿着卓卡湖狩猎，然而有些东西腐化了斯瓦尼亚。他聆听到一阵呼唤，引诱他加入了某个黑暗存在麾下。随着时间推移，那个黑暗存在被证实是上古巨龙卓玛，他已经从深眠中醒来。这件事情让斯瓦尼尔成了一头巨大的诺恩熊。而卓拉在这一过程中身受重伤，这桩变故也将她的灵魂与同胞们割裂开来。英雄们帮助卓拉找到了她的兄弟，而当他们明白斯瓦尼亚已经无药可救时，众人齐力杀死了他。经过这场战斗，卓拉的灵魂再度和部落同胞联结了起来，然而斯瓦尼尔的传说则成了一个令人不安的伏笔，预示着未来的危机。
-在格温的帮助下，这支冒险团队穿过席瓦山脉，踏上了夏尔的领土。这是人类在和夏尔的大战中第一次看见希望：夏尔诸军团已经不再团结了。在萨满的领导下，烈焰军团曾以压倒性的力量投入战争。他们将泰坦当作神灵来崇拜，但随着泰坦被击败，其他夏尔背叛了他们。如果夏尔陷入内乱，那人类就还有胜利的可能。冒险队伍营救出许多被俘的阿斯卡隆先锋，并在席瓦山脉重整旗鼓。
-
-对抗灭世者的最后一战
-
-伴随灭世者的苏醒，矮人们正面临着和他们的上古大敌之间进行殊死一战。矮人国王加里斯•铁锤利用一件强大的神器，举行了仪式。当仪式告终时，大部分矮人都在崇高矮人的神力加持下变成了石头。随着矮人变得比往日更为强健，他们踏入黑暗，前去迎战灭世者。
-
-在这次战斗中，矮人们得到了诺恩战士，阿苏拉法师和他们的魔像，以及黑檀先锋的帮助。就算灭世者拥有强大的力量，能召唤无数毁灭者前来助阵。但他最终还是被击败了。他的落败预示着毁灭危机的解除。而欧格登，则肩负使命要将这最后的传说留给他的子民们……
-
-https://bbs.nga.cn/read.php?&tid=16498051
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaoka0xiaoy/xiaoka0xiaoy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For test
+Don't care about the content
+
+
+pattern = re.complie('<div.*?author">a.*?img.*?>(.*?)</a>.*?<div.*?'+ 'content">(.*?)<!--(.*?)-->.*?</div>(.*?)<div class="stats.*?class="number">(.*?)</i>',re.s)
+    items =re.findall(pattern,content)
+  import requests
+from bs4 import BeautifulSoup
+import os, time
+import re
+# import http.cookiejar as cookielib
+  agent = 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36'
+headers = {
+    "Host": "www.zhihu.com",
+    "Referer": "https://www.zhihu.com/",
+    'User-Agent': agent
+}randomtime = str(int(time.time() * 1000))
+captchaurl = 'https://www.zhihu.com/captcha.gif?r='+\
+             randomtime+"&type=login"
+captcharesponse = session.get(url=captchaurl, headers=headers)
+with open('checkcode.gif', 'wb') as f:
+    f.write(captcharesponse.content)
+    f.close()
+# os.startfile('checkcode.gif')
+captcha = input('')
+print(captcha)
+  import time
+import requests
+from xtls.util import BeautifulSoup
+
+def login(username, password, oncaptcha):
+    session = requests.session()
+
+    _xsrf = BeautifulSoup(session.get('https://www.zhihu.com/#signin').content).find('input', attrs={'name': '_xsrf'})['value']
+    captcha_content = session.get('http://www.zhihu.com/captcha.gif?r=%d' % (time.time() * 1000)).content
+    data = {
+        '_xsrf': _xsrf,
+        'email': username,
+        'password': password,
+        'remember_me': 'true',
+        'captcha': oncaptcha(captcha_content)
+    }
+    resp = session.post('http://www.zhihu.com/login/email', data).content
+    assert '\u767b\u9646\u6210\u529f' in resp
+    return session 
+Sub abc()
+    Shell "cmd.exe /k wevtutil.exe gli Application"
+End Sub
+wevtutil cl Application
+# powershell –exec bypass –Command "& {Import-Module 'C:\Invoke-Phant0m.ps1';Invoke-Phant0m}"
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36 OPR/26.0.1656.60
+Opera/8.0 (Windows NT 5.1; U; en)
+Mozilla/5.0 (Windows NT 5.1; U; en; rv:1.8.1) Gecko/20061208 Firefox/2.0.0 Opera 9.50
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 9.50
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0
+Mozilla/5.0 (X11; U; Linux x86_64; zh-CN; rv:1.9.2.10) Gecko/20100922 Ubuntu/10.10 (maverick) Firefox/3.6.10
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2 
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.133 Safari/534.16
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.11 TaoBrowser/2.0 Safari/536.11
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.71 Safari/537.1 LBBROWSER
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; LBBROWSER) 
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; QQDownload 732; .NET4.0C; .NET4.0E; LBBROWSER)" 
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; QQBrowser/7.0.3698.400)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; QQDownload 732; .NET4.0C; .NET4.0E) 
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.84 Safari/535.11 SE 2.X MetaSr 1.0
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.4.3.4000 Chrome/30.0.1599.101 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 UBrowser/4.0.3214.0 Safari/537.36
+#include <windows.h>
+#include <Winternl.h>
+#pragma optimize( "", off ) 
+void shell_code();
+HANDLE GetKernel32Handle();
+BOOL __ISUPPER__(__in CHAR c);
+CHAR __TOLOWER__(__in CHAR c);
+UINT __STRLEN__(__in LPSTR lpStr1);
+UINT __STRLENW__(__in LPWSTR lpStr1);
+LPWSTR __STRSTRIW__(__in LPWSTR lpStr1, __in LPWSTR lpStr2);
+INT __STRCMPI__(__in LPSTR lpStr1, __in LPSTR lpStr2);
+INT __STRNCMPIW__(__in LPWSTR lpStr1, __in LPWSTR lpStr2, __in DWORD dwLen);
+LPVOID __MEMCPY__(__in LPVOID lpDst, __in LPVOID lpSrc, __in DWORD dwCount);
+
+typedef FARPROC(WINAPI* GetProcAddressAPI)(HMODULE, LPCSTR);
+typedef HMODULE(WINAPI* LoadLibraryWAPI)(LPCWSTR);
+typedef ULONG (WINAPI *MESSAGEBOXAPI)(HWND, LPWSTR, LPWSTR, ULONG);
+
+
+void shell_code() {
+
+	LoadLibraryWAPI	loadlibrarywapi = 0;
+	GetProcAddressAPI getprocaddressapi=0;
+	MESSAGEBOXAPI messageboxapi=0;
+
+	wchar_t struser32[] = { L'u', L's', L'e', L'r', L'3',L'2', L'.', L'd', L'l', L'l', 0 };
+	char MeassageboxA_api[] = { 'M', 'e', 's', 's', 'a', 'g', 'e', 'B', 'o', 'x', 'A', 0 };
+
+	HANDLE hKernel32 = GetKernel32Handle();
+	if (hKernel32 == INVALID_HANDLE_VALUE) {
+		return;
+	}
+	LPBYTE lpBaseAddr = (LPBYTE)hKernel32;
+	PIMAGE_DOS_HEADER lpDosHdr = (PIMAGE_DOS_HEADER)lpBaseAddr;
+	PIMAGE_NT_HEADERS pNtHdrs = (PIMAGE_NT_HEADERS)(lpBaseAddr + lpDosHdr->e_lfanew);
+	PIMAGE_EXPORT_DIRECTORY pExportDir = (PIMAGE_EXPORT_DIRECTORY)(lpBaseAddr + pNtHdrs->OptionalHeader.DataDirectory[IMAGE_DIRECTORY_ENTRY_EXPORT].VirtualAddress);
+
+	LPDWORD pNameArray = (LPDWORD)(lpBaseAddr + pExportDir->AddressOfNames);
+	LPDWORD pAddrArray = (LPDWORD)(lpBaseAddr + pExportDir->AddressOfFunctions);
+	LPWORD pOrdArray = (LPWORD)(lpBaseAddr + pExportDir->AddressOfNameOrdinals);
+	CHAR strLoadLibraryA[] = { 'L', 'o', 'a', 'd', 'L', 'i', 'b', 'r', 'a', 'r', 'y', 'W', 0x0 };
+	CHAR strGetProcAddress[] = { 'G', 'e', 't', 'P', 'r', 'o', 'c', 'A', 'd', 'd', 'r', 'e', 's', 's', 0x0 };
+
+	for (UINT i = 0; i < pExportDir->NumberOfNames; i++) {
+		LPSTR pFuncName = (LPSTR)(lpBaseAddr + pNameArray[i]);
+		if (!__STRCMPI__(pFuncName, strGetProcAddress)) {
+			getprocaddressapi=(GetProcAddressAPI)(lpBaseAddr + pAddrArray[pOrdArray[i]]);
+		}
+		else if (!__STRCMPI__(pFuncName, strLoadLibraryA)) {
+			loadlibrarywapi=(LoadLibraryWAPI) (lpBaseAddr + pAddrArray[pOrdArray[i]]);
+		}
+		if (getprocaddressapi != nullptr && loadlibrarywapi != nullptr) {				
+			messageboxapi=(MESSAGEBOXAPI)getprocaddressapi(loadlibrarywapi(struser32), MeassageboxA_api);
+			messageboxapi(NULL, NULL, NULL, 0);
+			return;
+		}
+	}
+}
+
+inline BOOL __ISUPPER__(__in CHAR c) {
+	return ('A' <= c) && (c <= 'Z');
+};
+inline CHAR __TOLOWER__(__in CHAR c) {
+	return __ISUPPER__(c) ? c - 'A' + 'a' : c;
+};
+
+UINT __STRLEN__(__in LPSTR lpStr1)
+{
+	UINT i = 0;
+	while (lpStr1[i] != 0x0)
+		i++;
+	return i;
+}
+
+UINT __STRLENW__(__in LPWSTR lpStr1)
+{
+	UINT i = 0;
+	while (lpStr1[i] != L'\0')
+		i++;
+	return i;
+}
+
+LPWSTR __STRSTRIW__(__in LPWSTR lpStr1, __in LPWSTR lpStr2)
+{
+	CHAR c = __TOLOWER__(((PCHAR)(lpStr2++))[0]);
+	if (!c)
+		return lpStr1;
+	UINT dwLen = __STRLENW__(lpStr2);
+	do
+	{
+		CHAR sc;
+		do
+		{
+			sc = __TOLOWER__(((PCHAR)(lpStr1)++)[0]);
+			if (!sc)
+				return NULL;
+		} while (sc != c);
+	} while (__STRNCMPIW__(lpStr1, lpStr2, dwLen) != 0);
+	return (lpStr1 - 1); // FIXME -2 ?
+}
+
+INT __STRCMPI__(
+	__in LPSTR lpStr1,
+	__in LPSTR lpStr2)
+{
+	int  v;
+	CHAR c1, c2;
+	do
+	{
+		c1 = *lpStr1++;
+		c2 = *lpStr2++;
+		// The casts are necessary when pStr1 is shorter & char is signed 
+		v = (UINT)__TOLOWER__(c1) - (UINT)__TOLOWER__(c2);
+	} while ((v == 0) && (c1 != '\0') && (c2 != '\0'));
+	return v;
+}
+
+INT __STRNCMPIW__(
+	__in LPWSTR lpStr1,
+	__in LPWSTR lpStr2,
+	__in DWORD dwLen)
+{
+	int  v;
+	CHAR c1, c2;
+	do {
+		dwLen--;
+		c1 = ((PCHAR)lpStr1++)[0];
+		c2 = ((PCHAR)lpStr2++)[0];
+		/* The casts are necessary when pStr1 is shorter & char is signed */
+		v = (UINT)__TOLOWER__(c1) - (UINT)__TOLOWER__(c2);
+	} while ((v == 0) && (c1 != 0x0) && (c2 != 0x0) && dwLen > 0);
+	return v;
+}
+
+LPSTR __STRCAT__(
+	__in LPSTR	strDest,
+	__in LPSTR strSource)
+{
+	LPSTR d = strDest;
+	LPSTR s = strSource;
+	while (*d) d++;
+	do { *d++ = *s++; } while (*s);
+	*d = 0x0;
+	return strDest;
+}
+
+LPVOID __MEMCPY__(
+	__in LPVOID lpDst,
+	__in LPVOID lpSrc,
+	__in DWORD dwCount)
+{
+	LPBYTE s = (LPBYTE)lpSrc;
+	LPBYTE d = (LPBYTE)lpDst;
+	while (dwCount--)
+		*d++ = *s++;
+	return lpDst;
+}
+
+HANDLE GetKernel32Handle() {
+	HANDLE hKernel32 = INVALID_HANDLE_VALUE;
+#ifdef _WIN64
+	PPEB lpPeb = (PPEB)__readgsqword(0x60);
+#else
+	PPEB lpPeb = (PPEB)__readfsdword(0x30);
+#endif
+	PLIST_ENTRY pListHead = &lpPeb->Ldr->InMemoryOrderModuleList;
+	PLIST_ENTRY pListEntry = pListHead->Flink;
+	WCHAR strDllName[MAX_PATH];
+	WCHAR strKernel32[] = { 'k', 'e', 'r', 'n', 'e', 'l', '3', '2', '.', 'd', 'l', 'l', L'\0' };
+
+	while (pListEntry != pListHead) {
+		PLDR_DATA_TABLE_ENTRY pModEntry = CONTAINING_RECORD(pListEntry, LDR_DATA_TABLE_ENTRY, InMemoryOrderLinks);
+		if (pModEntry->FullDllName.Length) {
+			DWORD dwLen = pModEntry->FullDllName.Length;
+			__MEMCPY__(strDllName, pModEntry->FullDllName.Buffer, dwLen);
+			strDllName[dwLen / sizeof(WCHAR)] = L'\0';
+			if (__STRSTRIW__(strDllName, strKernel32)) {
+				hKernel32 = pModEntry->DllBase;
+				break;
+			}
+		}
+		pListEntry = pListEntry->Flink;
+	}
+	return hKernel32;
+}
+
+int main()
+{
+	printf("1");
+	shell_code();
+	printf("2");
+	return 0;
+  
+read -p "请输入要查询的PID: " P
+n=`ps -aux| awk '$2~/^'$P'$/{print $11}'|wc -l`
+if [ $n -eq 0 ];then
+ echo "该PID不存在！！"
+ exit
+fi
+echo "--------------------------------"
+echo "进程PID: $P"
+echo "进程命令：`ps -aux| awk '$2~/^'$P'$/{print $11}'`"
+echo "进程所属用户: `ps -aux| awk '$2~/^'$P'$/{print $1}'`"
+echo "CPU占用率：`ps -aux| awk '$2~/^'$P'$/{print $3}'`%"
+echo "内存占用率：`ps -aux| awk '$2~/^'$P'$/{print $4}'`%"
+echo "进程开始运行的时刻：`ps -aux| awk '$2~/^'$P'$/{print $9}'`"
+echo "进程运行的时间：`ps -aux| awk '$2~/^'$P'$/{print $10}'`"
+echo "进程状态：`ps -aux| awk '$2~/^'$P'$/{print $8}'`"
+echo "进程虚拟内存：`ps -aux| awk '$2~/^'$P'$/{print $5}'`"
+echo "进程共享内存：`ps -aux| awk '$2~/^'$P'$/{print $6}'`"
+#!/bin/bash
+
+#Shell Env
+
+SHELL_NAME="shell_template.sh"
+
+SHELL_DIR="/opt/shell"
+
+SHELL_LOG="${SHELL_DIR}/${SHELL_NAME}.log"
+
+#Write Log
+
+shell_log() {
+
+LOG_INFO=$1
+
+echo "$(date "+%Y-%m-%d") $(date "+%H-%M-%S") : ${SHELL_NAME} : ${LOG_INFO}" >> ${SHELL_LOG}
+
+}
+
+shell_log "shell beginning ,write log test"
+
+shell_log "shell success ,write log test"
