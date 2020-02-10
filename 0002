@@ -1,0 +1,33 @@
+Function MyGet(Srg As String, Optional n As Integer = False)
+
+Dim i As Integer
+
+Dim s, MyString As String
+
+Dim Bol As Boolean
+
+For i = 1 To Len(Srg)
+
+s = Mid(Srg, i, 1)
+
+If n = 1 Then
+
+Bol = Asc(s) < 0
+
+ElseIf n = 2 Then
+
+Bol = s Like "[a-z,A-Z]"
+
+ElseIf n = 0 Then
+
+Bol = s Like "#"
+
+End If
+
+If Bol Then MyString = MyString & s
+
+Next
+
+MyGet = IIf(n = 1 Or n = 2, MyString, Val(MyString))
+
+End Function
